@@ -1,11 +1,11 @@
-About r-webdriver
-=================
+About r-webdriver-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-webdriver-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/rstudio/webdriver
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-webdriver-feedstock/blob/main/LICENSE.txt)
 
 Summary: A client for the 'WebDriver' 'API'. It allows driving a (probably headless) web browser, and can be used to test web applications, including 'Shiny' apps. In theory it works with any 'WebDriver' implementation, but it was only tested with 'PhantomJS'.
 
